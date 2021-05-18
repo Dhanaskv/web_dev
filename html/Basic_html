@@ -1,0 +1,17 @@
+Html is a hyper text markup language
+
+html is a structure of web page
+
+<!DOCTYPE html> ---> defines this is the HTML Document
+
+<html> ---> defines this is an opening tag
+</html> --> defines this is a closing tag
+
+<head> .... </head> ---> this tag contains meta data and browsers title
+
+<body> .... </body> ---> this tag contains document content,Images and headings
+
+<h1> ....</h1> ---> contains body heading
+<p> ....</p> ----> contains paragraph
+
+
